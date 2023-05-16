@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I´m Alba 👋
+
+
+- 🌱 I’m currently learning how to code in **Python** in a self-taught way 🐌. 
+
+
+If you have read this far and would like to tip me, that would be greatly appreciated.
 
 <!--
 **aljimenezgp/aljimenezgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
